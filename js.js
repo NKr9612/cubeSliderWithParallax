@@ -1,0 +1,1 @@
+document.querySelector('.one').classList.contains('swipe-slide-active')? document.getElementById('imgParallax').style.opacity = '1' : document.getElementById('imgParallax').style.opacity = '0';
